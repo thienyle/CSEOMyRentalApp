@@ -29,6 +29,7 @@ namespace CSEOMyRentalApp
                $"PurchasePrice: {myAccount2.PurchasePrice:C}, MarketValue: {myAccount2.MarketValue:C}, PropertyType: {myAccount2.PropertyType}, " +
                $"TotalRentalIncome: {myAccount2.TotalRentalIncome:C}, CreatedDate: {myAccount2.CreatedDate}");
 
+            //This is just a test area
         }
     }
 }
